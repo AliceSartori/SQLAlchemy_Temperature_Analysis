@@ -14,7 +14,7 @@ Unfortunately, I have good data for August 2016, not a lot for 2017 to compare.
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Precipitations%20over%2012%20months%20period_Summary%20Statistics.png)
 
-
+Regarding the temperature
 
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Trip%20Average%20Temp.png)
