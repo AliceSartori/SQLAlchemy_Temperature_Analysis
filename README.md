@@ -2,4 +2,4 @@
 
 Honolulu, Here I come! Historical climate analysis in the area.
 
-![Salary Ranges for Employees](https://github.com/AliceSartori/sql-challenge/blob/main/Salary%20ranges%20for%20employees.png)
+![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Precipitations%20over%2012%20months%20period_Summary%20Statistics.png)
