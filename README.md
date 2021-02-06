@@ -24,7 +24,7 @@ I decide to run a statistical un-paired test between June and December data. If 
 
 Other specific plots are below:
 
-- A plot comprising the min, avg, and max temperature from first days of August as a bar chart.
+- A plot comprising the min, avg, and max temperature from first days of August across all years as a bar chart
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Trip%20Average%20Temp.png)
 
