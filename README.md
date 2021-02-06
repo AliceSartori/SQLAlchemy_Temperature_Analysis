@@ -28,7 +28,7 @@ Other specific plots are below:
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Trip%20Average%20Temp.png)
 
--An area plot (stacked=False) for the daily normals
+- An area plot (stacked=False) for the daily normals
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Predicted%20Temperatures%20for%20Historical%20Temperature%20-%20Hawaii.png)
 
