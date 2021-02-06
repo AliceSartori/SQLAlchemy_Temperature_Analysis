@@ -16,6 +16,9 @@ There are multiple potential outliers in the temperature datapoints that could s
 Hawaii is reputed to enjoy mild weather all year. Is there a meaningful difference between the temperature in, for example, June and December?
 I decide to run a statistical un-paired test between June and December data. If the pvalue is smaller 0.05, like here, we can reject the null hypothesis and say there is a statistical meaninful high difference between these groups. 
 
+Other specific plots are below:
+
+- A plot comprising the min, avg, and max temperature from first days of August as a bar chart.
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Temperatures%20over%20a%2012-month%20period.png)
 
 
@@ -24,8 +27,6 @@ I decide to run a statistical un-paired test between June and December data. If 
 
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Trip%20Average%20Temp.png)
-
-
 
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Predicted%20Temperatures%20for%20Historical%20Temperature%20-%20Hawaii.png)
