@@ -4,6 +4,10 @@ Honolulu, Here I come! Historical climate analysis in the area.
 
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Precipitations%20over%2012-month%20period.png)
 
+
+
+![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Temperature%20over%2012-month%20period%2C%20station%20USC00519281.png)
+
 ![Summary Statistics](https://github.com/AliceSartori/sqlalchemy/blob/main/Precipitations%20over%2012%20months%20period_Summary%20Statistics.png)
 
 
